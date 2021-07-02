@@ -3,4 +3,4 @@ Start of my github journey
 
 Hello! 
 
-Second year CS student at NUS!
+Third year CS student at NUS!
