@@ -1,6 +1,6 @@
 # hello-world
 Start of my github journey
 
-Hello ! 
+Hello!
 
-First year CS student at NUS!
+Fourth year CS student at NUS!
